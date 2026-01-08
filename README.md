@@ -1,11 +1,11 @@
-# Asure Open Solutions
+# Asuré Open Solutions
 
-Collection of open-source apps and experiments under the Asure umbrella.
+Collection of open-source apps and experiments under the Asuré umbrella.
 
 This repo uses Git submodules to keep individual apps in their own repos while still providing a single hub to clone.
 
 ## Included apps
-- `apps/asure-flow` - AsureFlow (real-time transcription + AI notes)
+- `apps/asure-flow` - AsuréFlow (real-time transcription + AI notes)
 
 ## Getting started
 Clone with submodules:
